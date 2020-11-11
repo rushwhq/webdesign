@@ -1,4 +1,6 @@
-bootra1n: Linux + checkra1n, on USB
+Por jonathan tavares
+
+bootra1n: Linux + checkra1n, via USB
 ===================================
 Just enough Linux to boot checkra1n on any PC.
 
